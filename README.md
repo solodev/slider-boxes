@@ -1,5 +1,5 @@
 # slider-boxes
-{{TEXT}}
+Slider boxes have become incredibly popular over recent years. They give website managers the ability to showcase more content on a cool rotating visual element. Not only does it catch a visitor’s attention, it also improves UX by giving users the ability to access that content at their own pace by triggering the next slide. They’re one of the easiest ways to showcase anything about your organization – from a client roster, customer testimonials, reviews, and images.
 
 ## Tutorial
 
